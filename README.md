@@ -1,1 +1,3 @@
 # DarkBlue-BetterDiscord-Theme
+
+***Soon...***
